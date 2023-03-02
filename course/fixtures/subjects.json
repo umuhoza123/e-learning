@@ -1,0 +1,18 @@
+[
+{
+  "model": "course.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Mathematics",
+    "slug": "mathematics"
+  }
+},
+{
+  "model": "course.subject",
+  "pk": 2,
+  "fields": {
+    "title": "C++ programming",
+    "slug": "c-programming"
+  }
+}
+]
